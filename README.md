@@ -6,6 +6,6 @@
 
 
 ## gitee pages
-[deepinspace.gitee.io/daaooo/](https://deepinspace.gitee.io/daaooo/)
+[deepinspace.gitee.io](https://deepinspace.gitee.io/)
 
 这里只能用这样的形式了，不能解析到域名。
