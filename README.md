@@ -4,7 +4,7 @@
 
 这里可以直接解析到域名，但是阿里云对于非其主机有限制。用了一段时间，发警告，关闭了。
 
-
+1
 ## gitee pages
 [deepinspace.gitee.io](https://deepinspace.gitee.io/)
 
