@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[305],{202:function(o){o.exports=JSON.parse('{"id":"\u6cbb\u5c5e/\u544a\u7b56","title":"\u544a\u7b56","description":"### \u89e3\u91ca","source":"@site/docs/\u6cbb\u5c5e/\u544a\u7b56.md","permalink":"/xuanhdz/docs/\u6cbb\u5c5e/\u544a\u7b56"}')}}]);

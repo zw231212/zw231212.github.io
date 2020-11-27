@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[252],{190:function(e){e.exports=JSON.parse('{"id":"\u5386\u6cd5/lifa","title":"\u5386\u6cd5","sidebar_label":"\u5386\u6cd5, \u6b63\u7edf","keywords":["\u5386\u6cd5","\u6b63\u7edf"],"description":"# \u5386\u6cd5","source":"@site/docs/\u5386\u6cd5/README.md","permalink":"/xuanhdz/docs/\u5386\u6cd5/lifa"}')}}]);

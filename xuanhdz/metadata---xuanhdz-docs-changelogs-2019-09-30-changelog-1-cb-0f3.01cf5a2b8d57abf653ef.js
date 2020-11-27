@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[196],{172:function(G){G.exports=JSON.parse('{"id":"CHANGELOGS/2019-09-30-CHANGELOG","title":"2019-09-30-CHANGELOG","description":"### Changed","source":"@site/docs/CHANGELOGS/2019-09-30-CHANGELOG.md","permalink":"/xuanhdz/docs/CHANGELOGS/2019-09-30-CHANGELOG"}')}}]);
