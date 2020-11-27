@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[341],{334:function(e){e.exports=JSON.parse('{"id":"\u8457\u4f5c/\u62a5\u7eb8/baozhi","title":"\u62a5\u7eb8","hide_title":true,"sidebar_label":"\u62a5\u7eb8","description":"\u8457\u4f5c","source":"@site/docs/\u8457\u4f5c/\u62a5\u7eb8/README.md","permalink":"/xuanhdz/docs/\u8457\u4f5c/\u62a5\u7eb8/baozhi"}')}}]);

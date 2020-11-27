@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[273],{276:function(o){o.exports=JSON.parse('{"id":"\u5730\u7406/\u4e1c\u5ef7/\u65e6\u6cb3","title":"\u65e6\u6cb3","description":"### \u4f4d\u7f6e\u8bf4\u660e","source":"@site/docs/\u5730\u7406/\u4e1c\u5ef7/\u65e6\u6cb3.md","permalink":"/xuanhdz/docs/\u5730\u7406/\u4e1c\u5ef7/\u65e6\u6cb3"}')}}]);

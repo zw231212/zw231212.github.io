@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[201],{170:function(e){e.exports=JSON.parse('{"id":"statement","title":"\u58f0\u660e","sidebar_label":"\u58f0\u660e","description":"\u58f0\u660e","source":"@site/docs/\u58f0\u660e.md","permalink":"/xuanhdz/docs/statement"}')}}]);

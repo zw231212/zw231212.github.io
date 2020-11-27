@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[254],{272:function(o){o.exports=JSON.parse('{"id":"\u5730\u7406/\u4e1c\u5ef7/README","title":"README","description":"\u6d4a\u6f6e\u4e4b\u540e\uff0c\u6d2a\u6cb3\u9698\u53e3\u4e4b\u6218\u4e4b\u540e\uff0c","source":"@site/docs/\u5730\u7406/\u4e1c\u5ef7/README.md","permalink":"/xuanhdz/docs/\u5730\u7406/\u4e1c\u5ef7/README"}')}}]);

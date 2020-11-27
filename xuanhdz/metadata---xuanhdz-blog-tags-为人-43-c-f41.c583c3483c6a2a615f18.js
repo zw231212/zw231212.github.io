@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[182],{483:function(a){a.exports=JSON.parse('{"allTagsPath":"/xuanhdz/blog/tags","slug":"\u4e3a\u4eba","name":"\u4e3a\u4eba","count":1,"permalink":"/xuanhdz/blog/tags/\u4e3a\u4eba"}')}}]);

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[246],{264:function(o){o.exports=JSON.parse('{"id":"\u4fee\u884c/\u6c14/README","title":"README","description":"\u5fc3","source":"@site/docs/\u4fee\u884c/\u6c14/README.md","permalink":"/xuanhdz/docs/\u4fee\u884c/\u6c14/README"}')}}]);

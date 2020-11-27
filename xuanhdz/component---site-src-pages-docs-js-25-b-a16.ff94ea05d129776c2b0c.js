@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{140:function(e,t,n){"use strict";n.r(t);var a=n(0),l=n.n(a),i=n(494);t.default=function(){return l.a.createElement(i.a,{title:"Hello"},l.a.createElement("div",{style:{display:"flex",justifyContent:"center",alignItems:"center",height:"50vh",fontSize:"20px"}},l.a.createElement("p",null,"docs\u6d4b\u8bd5\u9875\u9762")))}}}]);

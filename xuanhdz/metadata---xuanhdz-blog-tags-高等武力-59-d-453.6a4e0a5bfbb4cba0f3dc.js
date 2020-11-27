@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[194],{481:function(a){a.exports=JSON.parse('{"allTagsPath":"/xuanhdz/blog/tags","slug":"\u9ad8\u7b49\u6b66\u529b","name":"\u9ad8\u7b49\u6b66\u529b","count":1,"permalink":"/xuanhdz/blog/tags/\u9ad8\u7b49\u6b66\u529b"}')}}]);
